@@ -42,7 +42,6 @@ Click on the "=" button to get the result of the calculation.
 Use the "C" button to clear the input and start a new calculation.
 Use memory functions (if available) to store and recall numbers for use in calculations.
 
-Screenshots
 ![Output](Output.png)
 
 Contributing
