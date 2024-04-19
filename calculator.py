@@ -1,6 +1,4 @@
-import tkinter
 from tkinter import *
-
 import gtts
 import playsound
 text='Please Enter Valid input'
